@@ -1,5 +1,5 @@
-# coder-golang
+# Welcome to CoderGolang
 
-coder-golang is VS Code running on a remote server, accessible through the browser and pre-loading with Go (1.14) and the VS Code extensions
+CoderGolang is VS Code preloaded with with Go (1.14) and the VS Code extensions enabled. 
 
 - work in progress -
