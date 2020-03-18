@@ -34,7 +34,6 @@ RUN go get -v github.com/sqs/goreturns
 RUN go get -v golang.org/x/lint/golint
 
 
-
 ENV EXTENSIONS_DIR=/home/coder/.local/share/code-server/extensions
 WORKDIR /opt/code-server-"$CODE_SERVER_VERSION"-linux-x86_64
 RUN ./code-server --install-extension redhat.vscode-yaml
