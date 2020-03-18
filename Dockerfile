@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/ubi:latest
+FROM registry.access.redhat.com/ubi8/ubi:8.1
 MAINTAINER daniel@foldingbeauty.nl
 ARG CODE_SERVER_VERSION=3.0.0
 ARG GOLANG_VERSION=1.14
