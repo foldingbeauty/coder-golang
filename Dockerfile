@@ -38,4 +38,7 @@ ENV EXTENSIONS_DIR=/home/coder/.local/share/code-server/extensions
 WORKDIR /opt/code-server-"$CODE_SERVER_VERSION"-linux-x86_64
 RUN ./code-server --install-extension redhat.vscode-yaml
 RUN ./code-server --install-extension ms-vscode.go
+RUN ./code-server --install-extension ipedrazas.kubernetes-snippets
+RUN ./code-server --install-extension stevejpurves.cucumber
+
 CMD ./code-server --host 0.0.0.0 --auth none
