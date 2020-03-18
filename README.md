@@ -5,6 +5,7 @@ CoderGolang is VS Code preloaded with with Go (1.14) and some VS Code extensions
 - Golang 1.14
 - [Code Server 3.0](https://github.com/cdr/code-server)
 - Extensions (Yaml, K8S Snippets, Golang)
+- Redhat UBI 8 base image
 
 ## Get started
 
