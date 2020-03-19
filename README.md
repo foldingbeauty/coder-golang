@@ -18,6 +18,10 @@ or
 
 Point your browser @ http://localhost:8080 and start Go-ing!
 
+## Container image repository
+
+https://hub.docker.com/r/foldingbeauty/coder
+
 ## Status
 
 Work in progress
