@@ -1,6 +1,6 @@
 # Welcome to CoderGolang
 
-CoderGolang is VS Code preloaded with with Go (1.14) and some VS Code extensions.
+CoderGolang is VS Code preloaded with Go (1.14) and some VS Code extensions.
 
 - Golang 1.14
 - [Code Server 3.0](https://github.com/cdr/code-server)
